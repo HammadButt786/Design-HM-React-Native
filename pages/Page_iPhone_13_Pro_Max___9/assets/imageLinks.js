@@ -1,0 +1,14 @@
+export const image_image_13_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef4f/b5b6/dcfd6a045e512876764ea4b253d541c3";
+export const image_image_15_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef4f/b5b6/dcfd6a045e512876764ea4b253d541c3";
+export const image_image_17_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef4f/b5b6/dcfd6a045e512876764ea4b253d541c3";
+export const image_image_18_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef4f/b5b6/dcfd6a045e512876764ea4b253d541c3";
+export const image_image_16_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef4f/b5b6/dcfd6a045e512876764ea4b253d541c3";
+export const image_image_14_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ef4f/b5b6/dcfd6a045e512876764ea4b253d541c3";
+export const image_image_8_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/f91a/0d39/6c20207ae3b9bd1817059d6952925098";
+export const image_image_8_2_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c19/0052/0d6ea99e96c657ebfb0676f5d1f28740";
+export const image_image_8_3_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/43e3/e854/0ad20db43aaf668efa873b7adc4d5a6b";
+export const image_image_8_4_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6f1c/c415/f63ab7f7bb02e817da2c98adf50bf33a";
+export const image_Rectangle_129_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5108/681c/cad4c32b72606f61585d64a4be59d55d";
+export const image_Rectangle_130_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5108/681c/cad4c32b72606f61585d64a4be59d55d";
+export const image_Rectangle_131_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5108/681c/cad4c32b72606f61585d64a4be59d55d";
+export const image_Rectangle_132_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5108/681c/cad4c32b72606f61585d64a4be59d55d";
